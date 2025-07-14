@@ -32,3 +32,4 @@ Create `.env` files like this:
 MONGO_URI=your_mongodb_uri_here
 JWT_SECRET=your_jwt_secret_here
 PORT=5000
+
